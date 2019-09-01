@@ -50,7 +50,7 @@
 
 ![](https://github.com/masonvip/AC86U-meilin/blob/master/picture/05.png?raw=true)
 
-* 订阅机场：点选【更新管理】-把链接粘贴到下图②处，然后保存并订阅。
+* 订阅机场：点选【更新管理】，把链接粘贴到下图②处，然后保存并订阅。
 
 ![](https://github.com/masonvip/AC86U-meilin/blob/master/picture/06.png?raw=true)
 
@@ -63,7 +63,7 @@
 
 ![](https://github.com/masonvip/AC86U-meilin/blob/master/picture/07.png?raw=true)
 
-* 先将 U盘格式为 ext4 格式，方法参考：[U盘如何格式化为 ext3 ext4 格式](https://www.jianshu.com/p/85039ac096c3)。
+* 先将 U盘格式为 ext4 格式。方法：[U盘如何格式化为 ext3 ext4 格式](https://www.jianshu.com/p/85039ac096c3)
 * 将 U盘插到背面 USB（2.0 或 3.0 接口均可）上，进入【软件中心】-【虚拟内存】，会显示 U盘信息。`如不显示说明 U 盘格式不对，请重新格式化。`
 * 虚拟内存大小选择 512 MB 或 1GB 均可，点选【创建虚拟内存】即可挂载成功。
 
