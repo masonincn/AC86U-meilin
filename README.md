@@ -1,37 +1,29 @@
-- 处理器：博通 BCM4906 双核 1.8GHz
-- 存       储：256MB 闪存，512MB DDR3 内存
-- 无线性能: 2.4GHz 750Mbps，5GHz 2166Mbps
-- 适用面积：120㎡
-
-![](https://upload-images.jianshu.io/upload_images/12894454-ba399a17e48d6232.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![背 / 侧面接口](https://upload-images.jianshu.io/upload_images/12894454-b5578f96ee00fba3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-从外型上看像是 AC68U 的升级版，红黑配色超级帅气，并且站立放置节约空间。
+# 华硕RT-AC86U86U86U：刷官改/梅林改版系统和挂载虚拟内存教程
 
 ------
 
-### 步骤一、固件
-
-- 【梅林改版】384.13_1（[点击下载](https://pan.baidu.com/s/1U2HtSSWbyQlQYr5jxWkK_w)）
-- 【官改】384_45717（[点击下载](https://pan.baidu.com/s/1JMwwwIrfJzcp4bKWJlZ9eg)）
-
-```固件作者：sadog```
-
-**版本区别：好用程度差别不大，稳定性也基本无差，选哪个固件基于个人喜好。**
+### 步骤一、固件下载
 
 - 【梅林改版】：基于梅林固件修改，添加软件中心，有更多的功能和 bug 修复。
 - 【官改】：基于官方固件修改，添加软件中心，ROG 红色界面，支持 AiMesh，更新较快。
+ ```
+ 好用程度差别不大，稳定性也基本无差，选哪个固件基于个人喜好。固件作者：sadog
+ ```
+- 【梅林改版】[384.13_1 下载](https://github.com/masonvip/AC86U-meilin/blob/master/file/RT-AC86U_384.13_1_cferom_ubi-koolshare.w)
+- 【官改】[384_45717 下载](https://github.com/masonvip/AC86U-meilin/blob/master/file/RT-AC86U_384_45717_koolshare_cferom_ubi-0627.w)
+
+
 
 ------
 
 ### 步骤二、升级固件
 
-```注：以官改为例，请使用 Chrome 浏览器进行操作。```
+`注：以梅林改版为例，请使用 Chrome 浏览器进行操作。`
 
 1. 路由器连接电脑，网页端进入路由器后台；
 2. 选择【系统管理】-【固件升级】，选择 ```.w``` 后缀的官改固件，上传即可。
 
-![](https://upload-images.jianshu.io/upload_images/12894454-ab2bdb2d7a32eb50.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://github.com/masonvip/AC86U-meilin/blob/master/picture/01.png?raw=true)
 ![耐心等待完成](https://upload-images.jianshu.io/upload_images/12894454-73f77017e12b08a5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - 完成后请连上网络。
