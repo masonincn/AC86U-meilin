@@ -64,8 +64,9 @@
 ![](https://github.com/masonvip/AC86U-meilin/blob/master/picture/07.png?raw=true)
 
 * 先将 U盘格式为 ext4 格式。方法：[U盘如何格式化为 ext3 ext4 格式](https://www.jianshu.com/p/85039ac096c3)
-* 将 U盘插到背面 USB（2.0 或 3.0 接口均可）上，进入【软件中心】-【虚拟内存】，会显示 U盘信息。`如不显示说明 U 盘格式不对，请重新格式化。`
-* 虚拟内存大小选择 512 MB 或 1GB 均可，点选【创建虚拟内存】即可挂载成功。
+* 将 U盘插到背面 USB（2.0 或 3.0 接口均可）上，进入【软件中心】-【虚拟内存】，会显示 U盘信息。
+`如不显示说明 U 盘格式不对，请重新格式化。`
+* 虚拟内存大小选择 512 MB 或 1 GB 均可，点选【创建虚拟内存】即可挂载成功。
 
 ![](https://github.com/masonvip/AC86U-meilin/blob/master/picture/08.png?raw=true)
 
@@ -78,6 +79,7 @@
 
 友情链接：[AC86U开启SSH，重置软件中心更换皮肤]([https://github.com/masonvip/AC86U-pifu/blob/master/README.md](https://github.com/masonvip/AC86U-pifu/blob/master/README.md))
 
+---
 [![Telegram](https://rawcdn.githack.com/masonvip/masonvip.github.io/7fa770686f715c1d67b1544a6dc92d0bc24855c2/file01/Telegram.svg)](https://t.me/MasonClub)
 [![简书](https://rawcdn.githack.com/masonvip/masonvip.github.io/7fa770686f715c1d67b1544a6dc92d0bc24855c2/file01/简书.svg)](https://www.jianshu.com/u/76be8479a4ae)
 [![支付宝](https://rawcdn.githack.com/masonvip/masonvip.github.io/18ae48780713dafb6da43fb13fd869429e648d37/file01/支付宝.svg)](https://github.com/masonvip/masonvip.github.io/blob/master/file01/%E6%94%AF%E4%BB%98%E5%AE%9D.JPG?raw=true)
