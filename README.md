@@ -77,7 +77,7 @@
 
 声明：刷机的朋友认真请阅读本文，带来的风险请自行承担！
 
-友情链接：[AC86U开启SSH，重置软件中心更换皮肤]([https://github.com/masonvip/AC86U-pifu/blob/master/README.md](https://github.com/masonvip/AC86U-pifu/blob/master/README.md))
+友情链接：[AC86U开启SSH，重置软件中心更换皮肤](https://rawcdn.githack.com/masonvip/AC86U-pifu/fe382e2a91fde7c1033c8f5d59781797600738a8/README.md)
 
 ---
 [![Telegram](https://rawcdn.githack.com/masonvip/masonvip.github.io/7fa770686f715c1d67b1544a6dc92d0bc24855c2/file01/Telegram.svg)](https://t.me/MasonClub)
