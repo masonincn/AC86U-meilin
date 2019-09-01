@@ -46,7 +46,7 @@
 
 ![](https://github.com/masonvip/AC86U-meilin/blob/master/picture/04.png?raw=true)
 
-* 点选【科学上网】，即可添加上网方式，如`SS`  `SSR` `V2Ray`。
+* 点选【科学上网】，添加上网方式，如：`SS`  `SSR` `V2Ray`。
 
 ![](https://github.com/masonvip/AC86U-meilin/blob/master/picture/05.png?raw=true)
 
