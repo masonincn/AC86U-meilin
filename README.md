@@ -4,9 +4,9 @@
 
 - 【梅林改版】：基于梅林固件修改，添加软件中心，有更多的功能和 bug 修复。
 - 【官改】：基于官方固件修改，添加软件中心，ROG 红色界面，支持 AiMesh，更新较快。
- ```
- 好用程度差别不大，稳定性也基本无差，选哪个固件基于个人喜好。固件作者：sadog
- ```
+
+ `好用程度差别不大，稳定性也基本无差，选哪个固件基于个人喜好。固件作者：sadog`
+ 
 - 【梅林改版】[384.13_1 下载](https://github.com/masonvip/AC86U-meilin/blob/master/file/RT-AC86U_384.13_1_cferom_ubi-koolshare.w)
 - 【官改】[384_45717 下载](https://github.com/masonvip/AC86U-meilin/blob/master/file/RT-AC86U_384_45717_koolshare_cferom_ubi-0627.w)
 
