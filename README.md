@@ -73,7 +73,7 @@
 
 声明：刷机的朋友认真请阅读本文，带来的风险请自行承担！
 
-友情链接：[AC86U开启SSH，重置软件中心更换皮肤][5]
+友情链接：[AC86U开启SSH，重置软件中心更换皮肤](https://github.com/masonvip/AC86U-pifu/blob/master/README.md)
 
 ---
 [![Telegram][image-10]][6]
