@@ -2,13 +2,10 @@
 
 ### 步骤一、固件下载
 
-- 梅林改版基于梅林固件修改，添加软件中心，有更多的功能和 bug 修复，新版本支持 AiMesh。
-- 官改基于官方固件修改，添加软件中心，ROG 红色界面，支持 AiMesh。
+- 梅林改版基于梅林固件修改，添加软件中心，有更多的功能和 bug 修复，新版本支持 AiMesh。[点击进入固件下载页面](https://github.com/masonvip/AC86U-meilin/tree/master/file_meilin)
+- 官改基于官方固件修改，添加软件中心，ROG 红色界面，支持 AiMesh。[点击进入固件下载页面](https://github.com/masonvip/AC86U-meilin/tree/master/file_guangai)
 
  `好用程度，稳定性差别不大，选哪个固件基于个人喜好。固件作者：sadog`
- 
-- **梅林改版：**[固件下载](https://github.com/masonvip/AC86U-meilin/tree/master/file_meilin)`建议选择新版本`
-- **官改：**[固件下载](https://github.com/masonvip/AC86U-meilin/tree/master/file_guangai)`建议选择新版本`
 
 ---- 
 
