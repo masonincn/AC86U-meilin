@@ -81,7 +81,7 @@
 [![支付宝][image-12]][8]
 [![][image-13]][9]
 
-[1]:	https://github.com/masonvip/AC86U-meilin/blob/master/file/RT-AC86U_384.13_1_cferom_ubi-koolshare.w
+[1]:	https://github.com/masonvip/AC86U-meilin/tree/master/file
 [2]:	https://github.com/masonvip/AC86U-meilin/blob/master/file/RT-AC86U_384_45717_koolshare_cferom_ubi-0627.w
 [3]:	https://github.com/masonvip/chajian/blob/master/flie01/shadowsocks.tar.gz
 [4]:	https://www.jianshu.com/p/85039ac096c3
