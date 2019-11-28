@@ -71,9 +71,3 @@
 声明：刷机的朋友认真请阅读本文，带来的风险请自行承担！
 
 友情链接：[AC86U开启SSH，重置软件中心更换皮肤](https://github.com/masonvip/AC86U-pifu/blob/master/README.md)
-
----
-[![Telegram](https://rawcdn.githack.com/masonvip/masonvip.github.io/7fa770686f715c1d67b1544a6dc92d0bc24855c2/file01/Telegram.svg)](https://t.me/MasonClub)
-[![简书](https://rawcdn.githack.com/masonvip/masonvip.github.io/7fa770686f715c1d67b1544a6dc92d0bc24855c2/file01/简书.svg)](https://www.jianshu.com/u/76be8479a4ae)
-[![支付宝](https://rawcdn.githack.com/masonvip/masonvip.github.io/18ae48780713dafb6da43fb13fd869429e648d37/file01/支付宝.svg)](https://github.com/masonvip/masonvip.github.io/blob/master/file01/%E6%94%AF%E4%BB%98%E5%AE%9D.JPG?raw=true)
-[![](https://rawcdn.githack.com/masonvip/masonvip.github.io/6f7f84c40b1e1ef79292707e4151017017aa09ed/file01/微信捐赠.svg)](https://github.com/masonvip/masonvip.github.io/blob/master/file01/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E4%BA%8C%E7%BB%B4%E7%A0%81.JPG?raw=true)
