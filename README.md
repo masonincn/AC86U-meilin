@@ -23,7 +23,9 @@
 
 ![](pic/01.png)
 
-- 完成后连接网络，可以看到左下角出现【软件中心】。
+- 会自动重启，此时刷机完成。
+- 进入路由器后台，在【系统管理 】–【 系统设置】内将：`Format JFFS partition at next boot` 和 `Enable JFFS custom scripts and configs` 勾选，然后点击应用本页面，成功后重启路由器。
+- 重启后先将路由器连上网络，进入软件中心更新到最新版本（如果有）。
 
 ![](pic/02.png)
 
