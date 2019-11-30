@@ -30,7 +30,7 @@
 
 ### 步骤三、安装科学上网插件
 
-* 科学上网：[插件下载](https://github.com/hq450/fancyss_history_package/blob/master/fancyss_hnd/shadowsocks_1.7.3.tar.gz)
+* 科学上网：[插件下载](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd)
 * 进入【软件中心】-【离线安装】，选择下载好的文件（后缀名为 `.gz`）上传安装。
 
 ![](pic/03.png)
