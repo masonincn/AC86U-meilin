@@ -2,9 +2,16 @@
 
 ## 固件下载
 
-- **梅林改版固件**基于梅林固件修改，添加软件中心，有更多的功能和 bug 修复，新版本支持 AiMesh。下载链接: https://pan.baidu.com/s/1mUmpDYiUepo6zE8nVHQlAw  密码: 9rei
-- **官改固件**基于官方固件修改，添加软件中心，ROG 红色信仰界面，支持 AiMesh，更新较快。下载链接: https://pan.baidu.com/s/1I51JyL6pz4E9xI4y9c5_4g  密码: nujr
- `好用程度，稳定性差别不大，选哪个固件基于个人喜好。固件来源koolshare`
+>- **梅林改版固件**基于梅林固件修改，添加软件中心，有更多的功能和 bug 修复，新版本支持 AiMesh。
+>* 下载链接: https://pan.baidu.com/s/1mUmpDYiUepo6zE8nVHQlAw  密码: 9rei
+
+
+
+>- **官改固件**基于官方固件修改，添加软件中心，ROG 红色信仰界面，支持 AiMesh，更新较快。
+>* 下载链接: https://pan.baidu.com/s/1I51JyL6pz4E9xI4y9c5_4g  密码: nujr
+
+
+ >好用程度，稳定性差别不大，选哪个固件基于个人喜好。固件来源koolshare
 
 ---- 
 
