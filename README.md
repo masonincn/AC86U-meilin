@@ -2,10 +2,9 @@
 
 ## 固件下载
 
-- **梅林改版固件**基于梅林固件修改，添加软件中心，有更多的功能和 bug 修复，新版本支持 AiMesh。[点击进入下载页面](https://github.com/masonvip/AC86U-meilin/tree/master/file_meilin)
-- **官改固件**基于官方固件修改，添加软件中心，ROG 红色信仰界面，支持 AiMesh，更新较快。[点击进入下载页面](https://github.com/masonvip/AC86U-meilin/tree/master/file_guangai)
-
- `好用程度，稳定性差别不大，选哪个固件基于个人喜好。固件作者：sadog`
+- **梅林改版固件**基于梅林固件修改，添加软件中心，有更多的功能和 bug 修复，新版本支持 AiMesh。下载链接: https://pan.baidu.com/s/1mUmpDYiUepo6zE8nVHQlAw  密码: 9rei
+- **官改固件**基于官方固件修改，添加软件中心，ROG 红色信仰界面，支持 AiMesh，更新较快。下载链接: https://pan.baidu.com/s/1I51JyL6pz4E9xI4y9c5_4g  密码: nujr
+ `好用程度，稳定性差别不大，选哪个固件基于个人喜好。固件来源koolshare`
 
 ---- 
 
@@ -20,7 +19,7 @@
 
 ![](pic/01.png)
 
-- 会自动重启，此时刷机完成。🟡刷完建议恢复下出厂设置。
+- 会自动重启，此时刷机完成。刷完建议恢复下出厂设置。
 - 进入路由器后台，在【系统管理 】–【 系统设置】内将：`Format JFFS partition at next boot` 和 `Enable JFFS custom scripts and configs` 勾选，然后点击应用本页面，成功后重启路由器。
 - 重启后先将路由器连上网络，进入软件中心更新到最新版本（如果有）。
 
@@ -30,7 +29,10 @@
 
 ## 步骤2 安装插件
 
-* 科学上网：[点击进入插件下载页面](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd)
+* 插件下载
+
+![](pic/Q群.jpg)
+
 * 进入「软件中心」-「离线安装」，选择下载好的文件（后缀名为 `.gz`）上传安装。
 
 ![](pic/03.png)
@@ -56,7 +58,3 @@
 * 点击「保存&应用」。此时连接路由器的所有设备均可科学上网了。
 
 ![07](pic/07.png)
-
-## 友情提醒：
-* 如果路线连不上，请在「账号设置」的「节点选择」里更换其他路线。
-* 在「节点管理」里可以看到每一个路线的 Ping 值（一般情况下越低越好）。
