@@ -58,13 +58,3 @@
 
 ![](pic/Q群.jpg)
 
-### Telegram
-
-* 路由器群：[https://t.me/luyouqi](https://t.me/luyouqi)
-* V2EX群：[https://t.me/V2EXPro](https://t.me/V2EXPro)
-* Apple群：[https://t.me/applequn](https://t.me/applequn)
-* Google群：[https://t.me/googlequn](https://t.me/googlequn)
-
-如果对你有帮助，欢迎支付宝扫码支持！
-
-![Alipay](https://raw.githubusercontent.com/masonincn/tuchuang/master/uPic/Alipay.png)
