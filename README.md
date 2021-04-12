@@ -1,5 +1,7 @@
 # 华硕 RT-AC86U 刷官改 / 梅林系统教程
 
+[![](https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-%231BA1F3)](https://twitter.com/yifangme) [![](https://img.shields.io/badge/%E8%B7%AF%E7%94%B1%E5%99%A8-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2312D1DD)](https://t.me/luyouqi)
+---
 ### 刷机
 
 登录路由器后台，点选【系统管理】-【固件升级】，选择下载好后缀为 `.w` 固件上传。
