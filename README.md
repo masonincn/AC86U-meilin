@@ -1,6 +1,6 @@
 # 华硕 RT-AC86U 刷官改 / 梅林系统教程
 
-[![](https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-%231BA1F3)](https://twitter.com/yifangme) [![](https://img.shields.io/badge/%E8%B7%AF%E7%94%B1%E5%99%A8-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2312D1DD)](https://t.me/luyouqi)
+[![](https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-%231BA1F3)](https://twitter.com/yifangme) [![](https://img.shields.io/badge/%E8%B7%AF%E7%94%B1%E5%99%A8-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2312D1DD)](https://t.me/v2expro)
 ---
 ### 刷机
 
